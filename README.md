@@ -49,3 +49,5 @@ const instance = new myProject();
 const result = instance.doSomethingAwesome('参数');
 console.log(result); // => 'Ожидаемый результат'
 ```
+
+Кстати, есть ещё один файл с документацией: [тык](README2.md)
